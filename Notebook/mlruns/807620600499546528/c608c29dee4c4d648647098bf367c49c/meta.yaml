@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/valch/OneDrive/Desktop/03.Machine%20Learning-September-2024/Exam/02.Exam-Project/01.Repo/Algorithmic-Trading-Bot/Notebook/mlruns/807620600499546528/c608c29dee4c4d648647098bf367c49c/artifacts
+end_time: 1732459174201
+entry_point_name: ''
+experiment_id: '807620600499546528'
+lifecycle_stage: active
+run_id: c608c29dee4c4d648647098bf367c49c
+run_name: Training dry run
+run_uuid: c608c29dee4c4d648647098bf367c49c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732459148502
+status: 3
+tags: []
+user_id: valch
