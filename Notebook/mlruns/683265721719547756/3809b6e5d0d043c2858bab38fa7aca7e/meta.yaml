@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/valch/OneDrive/Desktop/03.Machine%20Learning-September-2024/Exam/02.Exam-Project/01.Repo/Algorithmic-Trading-Bot/Notebook/mlruns/683265721719547756/3809b6e5d0d043c2858bab38fa7aca7e/artifacts
+deleted_time: 1732746794927
+end_time: 1732711556528
+entry_point_name: ''
+experiment_id: '683265721719547756'
+lifecycle_stage: deleted
+run_id: 3809b6e5d0d043c2858bab38fa7aca7e
+run_name: BTC_XGBoost_Optuna_SMOTE - test
+run_uuid: 3809b6e5d0d043c2858bab38fa7aca7e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732711470908
+status: 4
+tags: []
+user_id: valch

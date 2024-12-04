@@ -1,0 +1,10 @@
+[I 2024-12-03 14:50:17,720] Trial 20 finished with value: 0.4692108492254034 and parameters: {'boosting_type': 'dart', 'learning_rate': 0.049326936253012287, 'num_leaves': 88, 'min_data_in_leaf': 54, 'max_depth': 7, 'feature_fraction': 0.5530536099334057, 'bagging_fraction': 0.5697950611829533, 'bagging_freq': 6, 'lambda_l1': 0.001592863063329681, 'lambda_l2': 3.4073085019992875, 'n_estimators': 385}. Best is trial 20 with value: 0.4692108492254034.
+
+
+Cross-Validated Metrics:
+F1-Score (Macro): 0.4692 ± 0.0115
+F1-Score (Weighted): 0.9863 ± 0.0025
+Balanced Accuracy: 0.6259 ± 0.0406
+Cohen's Kappa: 0.2041 ± 0.0178
+Log Loss: 0.0617 ± 0.0099
+ROC-AUC: 0.9811 ± 0.0033

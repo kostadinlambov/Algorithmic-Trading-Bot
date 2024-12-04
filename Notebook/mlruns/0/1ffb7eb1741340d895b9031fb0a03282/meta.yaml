@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/1ffb7eb1741340d895b9031fb0a03282/artifacts
+deleted_time: 1732793597816
+end_time: 1732792779416
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 1ffb7eb1741340d895b9031fb0a03282
+run_name: BTC_XGBoost_Optuna_adasyn-50 Trials-run 2
+run_uuid: 1ffb7eb1741340d895b9031fb0a03282
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732792778842
+status: 4
+tags: []
+user_id: valch

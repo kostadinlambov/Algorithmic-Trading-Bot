@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/valch/OneDrive/Desktop/03.Machine%20Learning-September-2024/Exam/02.Exam-Project/01.Repo/Algorithmic-Trading-Bot/Notebook/mlruns/290176675589735609/b785505ed6194168b59926c80febc6af/artifacts
+end_time: 1733148113757
+entry_point_name: ''
+experiment_id: '290176675589735609'
+lifecycle_stage: active
+run_id: b785505ed6194168b59926c80febc6af
+run_name: BTC_LightGBM_Optuna_smote_Trials_2_test_11
+run_uuid: b785505ed6194168b59926c80febc6af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733147980854
+status: 3
+tags: []
+user_id: valch

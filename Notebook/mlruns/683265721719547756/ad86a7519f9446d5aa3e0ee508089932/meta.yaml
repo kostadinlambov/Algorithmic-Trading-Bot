@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/valch/OneDrive/Desktop/03.Machine%20Learning-September-2024/Exam/02.Exam-Project/01.Repo/Algorithmic-Trading-Bot/Notebook/mlruns/683265721719547756/ad86a7519f9446d5aa3e0ee508089932/artifacts
+deleted_time: 1732746777553
+end_time: 1732719282060
+entry_point_name: ''
+experiment_id: '683265721719547756'
+lifecycle_stage: deleted
+run_id: ad86a7519f9446d5aa3e0ee508089932
+run_name: BTC_XGBoost_Optuna_ADASYN - 500 Trials
+run_uuid: ad86a7519f9446d5aa3e0ee508089932
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732715966021
+status: 4
+tags: []
+user_id: valch

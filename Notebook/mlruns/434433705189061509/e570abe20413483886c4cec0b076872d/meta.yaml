@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/valch/OneDrive/Desktop/03.Machine%20Learning-September-2024/Exam/02.Exam-Project/01.Repo/Algorithmic-Trading-Bot/Notebook/mlruns/434433705189061509/e570abe20413483886c4cec0b076872d/artifacts
+end_time: 1733090376673
+entry_point_name: ''
+experiment_id: '434433705189061509'
+lifecycle_stage: active
+run_id: e570abe20413483886c4cec0b076872d
+run_name: BTC_RandomForestClassifier_Optuna_smote_Trials_50_test_3
+run_uuid: e570abe20413483886c4cec0b076872d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733053707848
+status: 3
+tags: []
+user_id: valch

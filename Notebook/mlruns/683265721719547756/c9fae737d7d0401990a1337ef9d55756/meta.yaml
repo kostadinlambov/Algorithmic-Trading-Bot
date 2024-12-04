@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/valch/OneDrive/Desktop/03.Machine%20Learning-September-2024/Exam/02.Exam-Project/01.Repo/Algorithmic-Trading-Bot/Notebook/mlruns/683265721719547756/c9fae737d7d0401990a1337ef9d55756/artifacts
+end_time: 1732746451415
+entry_point_name: ''
+experiment_id: '683265721719547756'
+lifecycle_stage: active
+run_id: c9fae737d7d0401990a1337ef9d55756
+run_name: BTC_XGBoost_Optuna_<built-in method capitalize of str object at 0x000002482C7C4DB0>
+  - Test Trials
+run_uuid: c9fae737d7d0401990a1337ef9d55756
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732746295008
+status: 3
+tags: []
+user_id: valch

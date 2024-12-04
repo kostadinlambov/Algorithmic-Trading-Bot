@@ -1,0 +1,21 @@
+[I 2024-12-02 07:38:13,315] Trial 33 finished with value: 0.485009594940648 and parameters: {'boosting_type': 'gbdt', 'learning_rate': 0.15682173146774683, 'num_leaves': 166, 'min_data_in_leaf': 28, 'max_depth': 11, 'feature_fraction': 0.6431511159213931, 'bagging_fraction': 0.7049046463089809, 'bagging_freq': 8, 'lambda_l1': 7.452192677428095e-06, 'lambda_l2': 7.645641292101307}. Best is trial 33 with value: 0.485009594940648.
+
+Fold 5 Classification Report
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99     87649
+           1       0.19      0.65      0.30       225
+           2       0.17      0.62      0.27       221
+
+    accuracy                           0.98     88095
+   macro avg       0.45      0.75      0.52     88095
+weighted avg       0.99      0.98      0.99     88095
+
+
+Cross-Validated Metrics:
+F1-Score (Macro): 0.4850 ± 0.0281
+F1-Score (Weighted): 0.9868 ± 0.0026
+Balanced Accuracy: 0.6623 ± 0.0674
+Cohen's Kappa: 0.2262 ± 0.0426
+Log Loss: 0.0507 ± 0.0108
+ROC-AUC: 0.9666 ± 0.0119
