@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/valch/OneDrive/Desktop/03.Machine%20Learning-September-2024/Exam/02.Exam-Project/01.Repo/Algorithmic-Trading-Bot/Notebook/mlruns/683265721719547756/9dcfe0282ac748768d7564028cadf9c6/artifacts
+deleted_time: 1733334385447
+end_time: 1733333129499
+entry_point_name: ''
+experiment_id: '683265721719547756'
+lifecycle_stage: deleted
+run_id: 9dcfe0282ac748768d7564028cadf9c6
+run_name: BTC_XGBoost_adasyn_train_best_model
+run_uuid: 9dcfe0282ac748768d7564028cadf9c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1733332606986
+status: 4
+tags: []
+user_id: valch

@@ -1,0 +1,72 @@
+best_model_params_adasyn = {
+    'boosting_type': 'dart', 
+    'learning_rate': 0.049326936253012287, 
+    'num_leaves': 88,
+    'min_data_in_leaf': 54, 
+    'max_depth': 7,
+    'feature_fraction': 0.5530536099334057,
+    'bagging_fraction': 0.5697950611829533,
+    'bagging_freq': 6,
+    'lambda_l1': 0.001592863063329681, 
+    'lambda_l2': 3.4073085019992875, 
+    'n_estimators': 385,
+    'random_state': 42,
+    'n_jobs': 10
+}
+
+Cross-Validated Metrics:
+F1-Score (Macro): 0.4625 ± 0.0144
+F1-Score (Weighted): 0.9845 ± 0.0025
+Balanced Accuracy: 0.6531 ± 0.0018
+Cohen's Kappa: 0.1950 ± 0.0213
+Log Loss: 0.0695 ± 0.0082
+ROC-AUC: 0.9807 ± 0.0034
+
+F1-Score(Macro) with Best Params and TimeSplit: 0.4625
+
+Scores with Best Params and TimeSplit:
+f1_macro_scores: 0.4625
+balanced_acc_scores: 0.6531
+f1_weighted_scores: 0.9845
+kappa_scores: 0.1950
+log_loss_scores: 0.0695
+roc_auc_scores: 0.9807
+#####################################################
+classification_train_report_LightGBM_adasyn:             
+   precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99    420626
+           1       0.19      0.65      0.29      1040
+           2       0.21      0.63      0.31      1194
+
+    accuracy                           0.98    422860
+   macro avg       0.46      0.76      0.53    422860
+weighted avg       0.99      0.98      0.99    422860
+
+classification_test_report_LightGBM_adasyn:             
+   precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99    105186
+           1       0.16      0.49      0.24       265
+           2       0.15      0.45      0.23       264
+
+    accuracy                           0.98    105715
+   macro avg       0.44      0.65      0.49    105715
+weighted avg       0.99      0.98      0.99    105715
+
+#####################################################
+
+F1-Score (Macro) final training: 0.4862
+
+F1 score (macro) : [0.4862323206744858]
+
+Classification report: 
+              precision    recall  f1-score   support
+
+           0       1.00      0.99      0.99    105186
+           1       0.16      0.49      0.24       265
+           2       0.15      0.45      0.23       264
+
+    accuracy                           0.98    105715
+   macro avg       0.44      0.65      0.49    105715
+weighted avg       0.99      0.98      0.99    105715

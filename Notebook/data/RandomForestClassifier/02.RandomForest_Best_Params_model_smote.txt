@@ -1,0 +1,38 @@
+best_forest_model_params_smote = {
+    'n_estimators': 107,                                         
+    'max_depth': 10,                                             
+    'min_samples_split': 8,
+    'min_samples_leaf': 7,
+    'bootstrap': True,
+    'class_weight': {0: 1, 1: 50, 2: 50},
+    'random_state': 42,
+    'verbose': 1,
+    'n_jobs': 9
+}
+
+
+###################################################
+classification_test_report: 
+
+    precision    recall  f1-score   support
+
+           0       1.00      0.97      0.99    105186
+           1       0.13      0.81      0.23       265
+           2       0.12      0.80      0.21       264
+
+    accuracy                           0.97    105715
+   macro avg       0.42      0.86      0.48    105715
+weighted avg       0.99      0.97      0.98    105715
+
+classification_train_report: 
+   precision    recall  f1-score   support
+
+           0       1.00      0.97      0.99    420626
+           1       0.15      0.95      0.26      1040
+           2       0.15      0.97      0.26      1194
+
+    accuracy                           0.97    422860
+   macro avg       0.43      0.96      0.50    422860
+weighted avg       1.00      0.97      0.98    422860
+
+##################################################
