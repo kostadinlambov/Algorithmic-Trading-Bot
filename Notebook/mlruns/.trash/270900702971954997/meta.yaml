@@ -1,0 +1,7 @@
+artifact_location: file:///C:/Users/valch/OneDrive/Desktop/03.Machine%20Learning-September-2024/Exam/02.Exam-Project/01.Repo/Algorithmic-Trading-Bot/Notebook/mlruns/270900702971954997
+creation_time: 1733217061406
+experiment_id: '270900702971954997'
+last_update_time: 1733256355940
+lifecycle_stage: deleted
+name: BTC_LightGBMClassifier_Optuna
+tags: {}
