@@ -1,8 +1,9 @@
 artifact_uri: file:///C:/Users/valch/OneDrive/Desktop/03.Machine%20Learning-September-2024/Exam/02.Exam-Project/01.Repo/Algorithmic-Trading-Bot/Notebook/mlruns/290176675589735609/d5f427c1ba7048739dfd2744869eb860/artifacts
+deleted_time: 1733409910772
 end_time: 1733096634790
 entry_point_name: ''
 experiment_id: '290176675589735609'
-lifecycle_stage: active
+lifecycle_stage: deleted
 run_id: d5f427c1ba7048739dfd2744869eb860
 run_name: BTC_LightGBM_Optuna_adasyn_Trials_2_test_1
 run_uuid: d5f427c1ba7048739dfd2744869eb860
