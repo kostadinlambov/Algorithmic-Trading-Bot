@@ -15,3 +15,7 @@ Z
 *02.2. Model Selection - RandomForest.ipynb,1\7\17385f17b4da800844d7be218f739489738e69f5
 `
 0Backup - Algorithmic trading (Trading Bot).ipynb,b\6\b603fa7e3cd9aca41a523cac8b69524d71fc5f13
+O
+03. Download Bitcoin Data.ipynb,7\9\79d27c86d6f32c370ac45760b2315917fba345fc
+P
+ 01.Algorithmic-Trading-Bot.ipynb,4\9\4972f1030b1b9d791bcfa613a3de2575816f1816
