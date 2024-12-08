@@ -14,7 +14,7 @@ We will train **XGBoost**, **Random Forest**, and **LightGBM** models using hist
 
 ## Data Acquisition
 
-The historical Bitcoin price data were collected from the **Coinbase API** (**[bitcoin data download](03.Download-Bitcoin-Data.ipynb)**). 
+The historical Bitcoin price data were collected from the **Coinbase API** (**[bitcoin data download](Notebook/03.Download-Bitcoin-Data.ipynb)**). 
 
 The data contains the **hourly** values for the **opening**, **closing**, **high**, **low** price of Bitcoin as well as the **traiding volume**.
 
